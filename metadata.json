@@ -1,0 +1,6 @@
+{
+  "name": "Chente IA",
+  "description": "Tu tutor de Inteligencia Artificial para el repaso de cursos universitarios y escolares, incluyendo sílabos, cuestionarios avanzados y resúmenes de estudio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
